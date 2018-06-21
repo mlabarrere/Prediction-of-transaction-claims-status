@@ -8,4 +8,4 @@ Data Science Competition for Rakuten Priceminister
 README status : To do
 
 
-Note : Sorry, comments are in french, because I do better jokes/puns in the baguette/fromage language
+Note : Sorry, comments are in french, because I do better jokes in the baguette/fromage language
